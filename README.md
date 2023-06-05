@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-<img src="./assets/ninjala-jane.gif" width="500" /> 
+<img src="./assets/ninjala-jane.gif" width="700" /> 
 </p>
 
 
