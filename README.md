@@ -10,6 +10,6 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://tenor.com/view/dev_animado-gif-25018018" />
+![code](https://tenor.com/view/dev_animado-gif-25018018)
 
 ### <img src="./images/stats.gif" width="30px"> **_About Me_**
