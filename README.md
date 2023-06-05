@@ -5,7 +5,7 @@
   <br>
 </p>
 <p align="center">
-	<img src="./assets/astronaut-apollo.gif" width="70" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./assets/hodlnaut-crypto.gif" width="50" />
+	<img src="./assets/astronaut-apollo.gif" width="70" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./assets/astronaut-eduwis" width="50" />
 </p>
 
 <br>
