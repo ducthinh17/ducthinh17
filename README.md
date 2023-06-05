@@ -18,7 +18,7 @@
 
 <br>
 <p align="center">
-<img src="./assets/ninjala-jane.gif" width="900"/> 
+<img src="./assets/ninjala-jane.gif" width="700"/> 
 </p>
 
 <img align="right" width=200 height=200 alt="side_sticker" src="./assets/space-astronaut.gif" />
