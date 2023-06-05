@@ -18,11 +18,13 @@
 
 <br>
 <p align="center">
-<img src="./assets/ninjala-jane.gif" width="700"/> 
+<img src="./assets/ninjala-jane.gif" width="900"/> 
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./assets/programming.gif" />
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+<img align="right" width=200 height=200 alt="side_sticker" src="./assets/programming.gif" />
+
+
+### ***About Me***
 
 * 😍 My hoppies: ***food - music - sport***
 * 👨‍🚀 I love: ***Math -  Statist - Problem-solving***
