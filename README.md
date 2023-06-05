@@ -23,11 +23,11 @@
 
 <p>
 </p>
+<img align="right" width=150 height=150 alt="side_sticker" src="./assets/space-astronaut.gif" />
 
 ### ***About Me:***
 * 😍 My hoppies: ***food - music - sport***
 * 👨‍🚀 I love: ***Math -  Statist - Problem-solving***
-<img align="right" width=150 height=150 alt="side_sticker" src="./assets/space-astronaut.gif" />
 * 🤡 I would be wonderful to welcome the sunrise with a cup of coffee
 * 📫 Ask me anything: https://github.com/ducthinh17
 
