@@ -5,11 +5,11 @@
   <br>
 </p>
 <p align="center">
-	<img src="./images/dog_2.gif" width="50" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./images/dog_1.gif" width="50" />
+	<img src="./assets/cartoon-629_128.gif" width="50" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./assets/hodlnaut-crypto.gif" width="50" />
 </p>
 
 <br>
-![Mô tả của tệp GIF](https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif =200x)
+<img src="./assets/ninjala-jane.gif" width="500" /> 
 
 
 
