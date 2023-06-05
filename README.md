@@ -9,8 +9,9 @@
 </p>
 
 <br>
+<p align="center">
 <img src="./assets/ninjala-jane.gif" width="500" /> 
-
+</p>
 
 
 ### <img src="./images/stats.gif" width="30px"> **_About Me_**
