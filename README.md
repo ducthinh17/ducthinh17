@@ -21,7 +21,7 @@
 <img src="./assets/ninjala-jane.gif" width="700"/> 
 </p>
 
-<img align="right" width=200 height=200 alt="side_sticker" src="./assets/space-astronaut.gif" />
+<img align="right" width=120 height=120 alt="side_sticker" src="./assets/space-astronaut.gif" />
 <p>
 </p>
 
