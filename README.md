@@ -15,15 +15,13 @@
 	<img src="./assets/astronaut-apollo.gif" width="70" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./assets/hodlnaut-crypto.gif" width="50" />
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./assets/programming.gif" />
-
 
 <br>
 <p align="center">
-<img src="./assets/ninjala-jane.gif" width="300" height="300"/> 
+<img src="./assets/ninjala-jane.gif" width="700"/> 
 </p>
 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="./assets/programming.gif" />
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 😍 My hoppies: ***food - music - sport***
