@@ -22,10 +22,9 @@
 </p>
 
 <img align="right" width=200 height=200 alt="side_sticker" src="./assets/programming.gif" />
-
-
+<br>
+<br>
 ### ***About Me:***
-* 
 * 😍 My hoppies: ***food - music - sport***
 * 👨‍🚀 I love: ***Math -  Statist - Problem-solving***
 * 🤡 I would be wonderful to welcome the sunrise with a cup of coffee
