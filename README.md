@@ -29,7 +29,7 @@
 * 😍 My hoppies: ***food - music - sport***
 * 👨‍🚀 I love: ***Math -  Statist - Problem-solving***
 * 🤡 I would be wonderful to welcome the sunrise with a cup of coffee
-* 📫 Ask me anything: [**here**](https://github.com/ducthinh17)
+* 📫 Ask me anything: https://github.com/ducthinh17
 
 ### Languages and Tools:
 
