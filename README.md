@@ -9,7 +9,7 @@
 </p>
 
 <br>
-![Mô tả của tệp GIF](https://tenor.com/view/dev_animado-gif-25018018 =200x)
+![Mô tả của tệp GIF](https://tenor.com/view/dev_animado-gif-25018018)
 
 
 ### <img src="./images/stats.gif" width="30px"> **_About Me_**
