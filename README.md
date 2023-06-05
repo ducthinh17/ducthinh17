@@ -15,6 +15,9 @@
 	<img src="./assets/astronaut-apollo.gif" width="70" /> <b><i>"Integrity and honesty form the very foundation of my character."</i></b> <img src="./assets/hodlnaut-crypto.gif" width="50" />
 </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="./assets/programming.gif" />
+
+
 <br>
 <p align="center">
 <img src="./assets/ninjala-jane.gif" width="700" /> 
@@ -43,3 +46,12 @@
 ### 📫 Contact me via:
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/pham-le-duc-thinh-4095aa273)
 
+<p align="center">
+<img src="./assets/space-astronaut.gif" width="300" /> 
+<img src="./assets/programmers-go-internet.gif" width="300" /> 
+<img src="./assets/space-stars.gif" width="300" /> 
+</p>
+
+<p align="center">
+<img src="./assets/end-2.jpg" width="1100" /> 
+</p>
