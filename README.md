@@ -21,7 +21,7 @@
 <img src="./assets/ninjala-jane.gif" width="900"/> 
 </p>
 
-<img align="right" width=200 height=200 alt="side_sticker" src="./assets/programming.gif" />
+<img align="right" width=200 height=200 alt="side_sticker" src="./assets/space-astronaut.gif" />
 <p>
 </p>
 
@@ -48,9 +48,9 @@
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/pham-le-duc-thinh-4095aa273)
 
 <p align="center">
-<img src="./assets/space-astronaut.gif" width="200" height="200" /> 
-<img src="./assets/programmers-go-internet.gif" height="200" /> 
-<img src="./assets/astronaut-eduwis.gif" width="200" height="200" /> 
+<img src="./assets/programmers-go-internet.gif" height="200" />
+<img src="./assets/programming.gif" width="200" height="200" /> 
+<img src="./assets/undefined - Imgur.gif" width="200" height="200" /> 
 </p>
 
 <p align="center">
