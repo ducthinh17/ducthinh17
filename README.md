@@ -33,8 +33,7 @@
 
 ### Languages and Tools:
 <img align="left" alt ="R studio" width="26px" 
-src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-)/>
+src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img align="left" alt ="Python" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
