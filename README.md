@@ -32,7 +32,7 @@
 * 📫 Ask me anything: https://github.com/ducthinh17
 
 ### Languages and Tools:
-<img align="left" alt ="R studio" width="26px" 
+<img align="left" alt ="R studio" height="56px" width="50px" 
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img align="left" alt ="Python" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
